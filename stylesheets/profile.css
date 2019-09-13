@@ -1,0 +1,14 @@
+.bio
+{
+    width: 400px;
+    margin: 0 auto;
+    text-align: left;
+    background-color: #d4bbbb;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid #acacac;
+}
+
+.avatar
+{
+    border-radius: 50%
+}
